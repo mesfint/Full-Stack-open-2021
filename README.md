@@ -1,12 +1,6 @@
 # Full-Stack-open-2021
 ### Deep Dive Into Modern Web Development
 
-
-
-
-[<img src ="https://github.com/mesfint/Full-Stack-open-2021/blob/main/fullStack2021.jpg">](https://github.com/mesfint/Full-Stack-open-2021)
-
-
 <!--
 **mesfint/mesfint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,6 +15,9 @@
 - MongoDB ...
 - GraphQL ...
 - TypeScript ...
+
+
+[<img src ="https://github.com/mesfint/Full-Stack-open-2021/blob/main/fullStack2021.jpg">](https://github.com/mesfint/Full-Stack-open-2021)
 
 
 ####  This course will introduce you to modern JavaScript-based web development. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js.
