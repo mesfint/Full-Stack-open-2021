@@ -5,7 +5,6 @@ Deep Dive Into Modern Web Development
 
 
 [<img src ="https://github.com/mesfint/Full-Stack-open-2021/blob/main/fullStack2021.jpg">](https://github.com/mesfint/Full-Stack-open-2021)
- [<img src ="https://github.com/mesfint/mesfint/blob/master/mesfintHeader.png">](https://mesfint.com)
 
 
 <!--
