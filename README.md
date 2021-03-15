@@ -40,7 +40,7 @@ Deep Dive Into Modern Web Development
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=mesfint&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mesfint&show=reactjs,javaScript,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mesfint&show=css,javaScript,html&theme=tokyonight">
 </p>
 
 </details>
