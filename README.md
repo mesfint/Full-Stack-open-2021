@@ -6,7 +6,7 @@
 ##  Deep Dive Into Modern Web Development
 
 ### What to learn from this course
- React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go! 
+
 
 
  - 🔭 React ...
